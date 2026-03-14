@@ -1,0 +1,8 @@
+{
+  "name": "warbird-crypto",
+  "main": "warbird-crypto.js",
+  "author": "tan2pow16 <https://github.com/tan2pow16>",
+  "engines": {
+    "node": "^16.20.2"
+  }
+}
