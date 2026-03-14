@@ -1,6 +1,6 @@
 # Warbird Crypto JS
 
-A simple tool written in Node.js that helps you decrypt malware samples abusing Microsoft Warbird to decrypt its payloads.  
+A simple tool written in Node.js that helps you decrypt malware samples abusing Microsoft Warbird to encrypt its payloads.  
 
 ## Usage
 
